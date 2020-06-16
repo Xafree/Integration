@@ -35,7 +35,7 @@ $g_status_icon_arr[VERY_HIGH] = 'fa-chevron-up fa-lg red';
 
 #Definition des changements de statuts possibles pour nos nouveaux statuts
 $g_status_enum_workflow[TEST] ='20:feedback,50:assigned,75:oui2,80:resolved,90:closed';
-$g_status_enum_workflow[TEST2] ='20:feedback,50:assigned,80:resolved,90:closed';
+$g_status_enum_workflow[TEST2] = '20:feedback,50:assigned,80:resolved,90:closed';
 
 
 
