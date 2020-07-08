@@ -738,3 +738,10 @@ define( 'DB_TYPE_ORACLE', 4 );
 
 # Database special capabilities identifiers
 define( 'DB_CAPABILITY_WINDOW_FUNCTIONS', 1 );
+
+#Custom constant
+define('TEST',70); #Test
+define('TEST2',75); #Test
+
+#Priority custom
+define('VERY_HIGH', 45);#test
